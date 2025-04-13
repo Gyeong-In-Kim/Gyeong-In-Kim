@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Welcome%20My%20Page%20!&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center">
-        ## 자기소개 INCRODUCTION
+        ##자기소개 INCRODUCTION
         안녕하세요! 영남대학교 컴퓨터공학과 재학중인 김경인입니다. 
         </div>
     <div align= "center">
