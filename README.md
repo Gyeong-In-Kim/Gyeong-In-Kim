@@ -7,7 +7,7 @@ Hello, I'm Kim Gyeong-in,
 a sophomore computer engineering major at Yeungnam University.👋
   
   <H2>이메일 E-MAIL</H2>
-
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 
 
 <!--
