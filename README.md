@@ -7,10 +7,8 @@ Hello, I'm Kim Gyeong-in,
 a sophomore computer engineering major at Yeungnam University.👋
   
   <H2>이메일 E-MAIL</H2>
-  [![Gmail Badge](https://img.shields.io/badge/-kimgyeongin1@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:kimgyeongin1@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@rlagi_-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rlagi_d)                                                          
-[![Discord Badge](https://img.shields.io/badge/-Discord%20Server-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/cTC7D8MT)
-</div>
+
+  # <img src="https://img.shields.io/badge/네이버-03C75A?style=flat-square&logo=네이버&logoColor=WHITE"/>
 
 
 
