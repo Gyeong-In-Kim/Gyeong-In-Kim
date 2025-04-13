@@ -6,7 +6,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> INTRODUCTION </h2>
     </div>
     <div align= "center">
-    <h1> 안녕하세요 ! 영남대학교 컴퓨터공학부 재학 중인 2학년 김경인입니다. </h1>
+    <h3> 안녕하세요 ! 영남대학교 컴퓨터공학부 재학 중인 2학년 김경인입니다. </h3>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
