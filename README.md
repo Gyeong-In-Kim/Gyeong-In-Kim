@@ -1,5 +1,5 @@
 <div align="center"> 
-  <H3>자기소개 INCRODUCTION</H3>
+  <H2>자기소개 INCRODUCTION</H2>
 
 안녕하세요. 영남대학교 컴퓨터공학과 컴퓨터공학전공 2학년 김경인입니다.👋
 
