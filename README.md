@@ -1,8 +1,10 @@
+<div align="center"> 
 ## 자기소개 INCRODUCTION
 
 안녕하세요. 영남대학교 컴퓨터공학과 컴퓨터공학전공 2학년 김경인입니다.👋
 
 Hello, I'm Kim Gyeong-in, a sophomore computer engineering major at Yeungnam University.👋
+</div>
 <!--
 **Gyeong-In-Kim/Gyeong-In-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
