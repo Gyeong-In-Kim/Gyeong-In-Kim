@@ -5,7 +5,7 @@
 Hello, I'm Kim Gyeong-in, a sophomore computer engineering major at Yeungnam University.👋
 </div>
 
-![instagram](https://img.shields.io/badge/instagram-#FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=#FF0069)
+![instagram](https://img.shields.io/badge/instagram-#FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=WHITE)
 <!--
 **Gyeong-In-Kim/Gyeong-In-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
