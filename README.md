@@ -7,8 +7,9 @@ Hello, I'm Kim Gyeong-in,
 a sophomore computer engineering major at Yeungnam University.👋
   
   <H2>이메일 E-MAIL</H2>
-  <a. href="인스타그램 주소" target="_blank"><img src="http://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=Instagram&LogoColor=white"
-  
+  <a. https://www.instagram.com/rlagi_/="인스타그램 주소" target="_blank"><img src="http://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=Instagram&LogoColor=white"
+
+                              
 </div>
 
 
