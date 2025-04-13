@@ -3,7 +3,7 @@
     </div>
     </div>
     <div align= "center">
-    <h3> INTRODUCTION </h3>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> INTRODUCTION </h2>
     </div>
     <div align= "center">
     <h2> 안녕하세요 ! 영남대학교 컴퓨터공학부 재학 중인 2학년 김경인입니다. </h2>
