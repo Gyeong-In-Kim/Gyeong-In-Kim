@@ -8,7 +8,7 @@ a sophomore computer engineering major at Yeungnam University.👋
   
   <H2>이메일 E-MAIL</H2>
 
-  # <img src="https://img.shields.io/badge/네이버-03C75A?style=flat-square&logo=네이버&logoColor=WHITE"/>
+  # <"https://simpleicons.org/?q=naver"="https://img.shields.io/badge/네이버-03C75A?style=flat-square&logo=네이버&logoColor=WHITE"/>
 
 
 
